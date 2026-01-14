@@ -1,0 +1,7 @@
+baseURL: /
+languageCode: en-us
+title: My New Hugo Site
+
+module:
+  imports:
+    - path: github.com/hugolify/hugolify-theme
