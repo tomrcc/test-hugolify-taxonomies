@@ -1,0 +1,8 @@
+baseURL: /
+languageCode: en-us
+title: My New Hugo Site
+
+module:
+  imports:
+    - path: github.com/richtong/gohugo-theme-ananke
+    - path: github.com/hugolify/hugolify-sveltia-cms
